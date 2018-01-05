@@ -1,0 +1,25 @@
+table {
+	border: 1px solid black;
+}
+
+td {
+	height: 20px;
+	width: 20px;
+	border: 1px solid black;
+}
+
+.way {
+	background-color: white;
+}
+
+.brick {
+	background-color: gray;
+}
+
+.path {
+	background-color: yellow;
+}
+
+.badPath {
+	background-color: red;
+}
